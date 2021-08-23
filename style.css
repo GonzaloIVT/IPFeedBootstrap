@@ -10,17 +10,10 @@
 #instagram{
     font-family: 'Rampart One', cursive;
 }
-.boton1{
-    justify-content: right;
-    margin-left: 60%;
-}
+
 
 .tab-pane {
-    background-color: white;
+    background-color:grey;
 }
-img { 
-    margin: 5px; 
-}
-.logoyletra{
-    margin-left: 100px;
-}
+
+
