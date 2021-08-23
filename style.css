@@ -1,0 +1,26 @@
+.body {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: black;
+}
+#contenedor{
+    background-color: white;
+}
+
+#instagram{
+    font-family: 'Rampart One', cursive;
+}
+.boton1{
+    justify-content: right;
+    margin-left: 60%;
+}
+
+.tab-pane {
+    background-color: darkgrey;
+}
+img { 
+    margin: 5px; 
+}
+.logoyletra{
+    margin-left: 100px;
+}
